@@ -5,7 +5,7 @@ AkarJaga adalah sebuah landing page yang memiliki fitur utama di web adalah Bera
 
 ## 💻 Halaman Web
 Halaman Web yang dapat Anda Lihat:
-- *https://larasati14.github.io/Kelompok4_AkarJaga_UTS/*
+- *https://larasati14.github.io/PW_B23_Landing-Page-Akar-Jaga_/*
 
 Klik link di atas untuk mengarahkan Anda ke Web
 
@@ -59,7 +59,7 @@ Klik link di atas untuk mengarahkan Anda ke Web
 
 ## 🌐Cara mengakses Website AkarJaga melalui Mobile
 Akses link berikut: 
-- *https://larasati14.github.io/Kelompok4_AkarJaga_UTS/*
+- *https://larasati14.github.io/PW_B23_Landing-Page-Akar-Jaga_/*
 
 Link di atas dapat anda akses melalui tampilan mobile, fungsi dari setiap menu pada navigasi bar yang ada di tampilan mobile sama dengan navigasi bar yang ada di tampilan desktop. Perbedaan yang terlihat hanya letak dari setiap elemen pada website saja yang berubah, elemen yang bertambah hanya tombol menu yang berada pada ujung kanan atas. Tombol menu tersebut hanya muncul pada tampilan mobile saja.
 
